@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "service": "TP/S1",
+      "repart": "hola",
+      "solutions": [
+        {
+          "solution": "S1",
+          "product": "P1",
+          "select": true,
+          "version": "V1",
+          "import": 50,
+          "cost": 60
+        },
+        {
+          "solution": "S1",
+          "product": "P2",
+          "select": true,
+          "version": null,
+          "import": 50,
+          "cost": 60
+        },
+        {
+          "solution": "S2",
+          "product": "P1",
+          "select": true,
+          "version": "V1",
+          "import": 50,
+          "cost": 60
+        }
+      ]
+    }
+  ]
+}
